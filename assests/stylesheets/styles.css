@@ -20,6 +20,6 @@ p {
 	border: 1px solid black;
 }
 
-#class {
+.jumbotron {
 	background-image: url("coolbackground.png")
 }
