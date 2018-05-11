@@ -1,0 +1,25 @@
+#content {
+	width: 600px;
+	background: #fff;
+}
+
+.crazy-color {
+	color: fuchsia;
+}
+
+p {
+	
+	padding: 5px;
+}
+
+.white {
+	color: white;
+}
+
+.bordered {
+	border: 1px solid black;
+}
+
+#class {
+	background-image: url("coolbackground.png")
+}
